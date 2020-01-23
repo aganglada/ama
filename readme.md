@@ -1,14 +1,14 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/aganglada/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/aganglada/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/kentcdodds/ama/labels) to sort the questions by ([work in progress](https://github.com/kentcdodds/ama/issues/424)).
+See my [favorite/popular/frequently asked](https://github.com/aganglada/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/aganglada/ama/labels) to sort the questions by ([work in progress](https://github.com/aganglada/ama/issues/424)).
 
 I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
 
-**If you'd rather not ask your question publicly**, send me an [email](mailto:me+ama@kentcdodds.com) and I can post the question anonymously for you.
+**If you'd rather not ask your question publicly**, send me an [email](mailto:aganglada@gmail.com) and I can post the question anonymously for you.
 
-Subscribe for updates by [watching the repo](https://github.com/kentcdodds/ama/subscription).
+Subscribe for updates by [watching the repo](https://github.com/aganglada/ama/subscription).
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
